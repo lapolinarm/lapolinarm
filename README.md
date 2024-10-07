@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Levi Apolinar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Ruby+on+Rails;React%20|%20Next.js%20|%20Tailwind;SQL%20|%20SQL+Server%20|%20PostgreSQL%20|%20MySQL;Heroku%20|%20Google+Cloud%20|%20Figma;Git%20|%20GitHub%20|%20GitHub+Projects;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=English%20|%20Adaptability%20|%20Critical+Thinking;Time+Management%20|%20Decision+Making%20|%20Technical+Communication;Problem+Solving%20|%20Team+Leadership%20|%20Attention+to+Detail;Strategic+Vision%20|%20Team+Motivation%20|%20Change+Management;Negotiation%20|%20Effective+Delegation%20|%20Crisis+Management;Results+Oriented%20|%20Innovation%20|%20Analytical+Thinking;Empathy%20|%20Continuous+Learning%20|%20Work+Under+Pressure;&center=true&width=900&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I am the founder of rucbot.com, a startup that designs, builds, and deploys the most advanced software robots in the world, with over 1M operations in LATAM. I left a secure path as an industrial engineer to pursue a bigger dream and become a CEO. I trained extensively to master Full Stack Web Development and connect our robots with the real world, and since then, I haven’t stopped learning.
