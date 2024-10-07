@@ -49,3 +49,6 @@ Currently, I am writing my first book about business in technology, what works, 
 ![](https://github-readme-stats.vercel.app/api?username=lapolinarm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lapolinarm&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lapolinarm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lapolinarm&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
